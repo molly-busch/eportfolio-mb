@@ -20,9 +20,9 @@ source-code: https://github.com/molly-busch/test1
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Test1 - INSC565
+title: Test1 - INSC565 Sourdough
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: testing
+tagline: testing sourdough rise
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Using CollectionBuilder-GH as a template to create Test1 DL"
@@ -34,7 +34,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: c001
+metadata: c002
 
 ##########
 # Site/Organization Branding 
